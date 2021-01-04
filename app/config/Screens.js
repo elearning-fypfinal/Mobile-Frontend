@@ -1,0 +1,18 @@
+export const SCREENS = {
+  Account: "AccountScreen",
+  ChapterTopic: "ChapterTopicScreen",
+  Class: "ClassScreen",
+  ForgotPassword: "ForgotPasswordScreen",
+  ForgetPasswordCode: "ForgetPasswordCode",
+  NewPasswordScreen: "NewPasswordScreen",
+  Subject: "Subject",
+  Quiz: "QuizScreen",
+  Result: "ResultScreen",
+  SearchBar: "SearchBarScreen",
+  SignIn: "SignInScreen",
+  SignUp: "SignUpScreen",
+  Tab: "Tab",
+  Welcome: "WelcomeScreen",
+  Video: "VideoScreen",
+  UpdatePasswordScreen: "UpdatePasswordScreen",
+};
